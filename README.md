@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Durgesh Pal,an Engineering Student & Passionate Web Developer from India. I Spend most of time coding outstanding project.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=durgesh2001)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **durgesh2001/durgesh2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
