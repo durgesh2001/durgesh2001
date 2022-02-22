@@ -53,7 +53,6 @@ I'm Durgesh Pal,an Engineering Student & Passionate Web Developer from India. I 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgesh2001&theme=tokyonight" alt="its-kumar" /></p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=durgesh2001&show_icons=true)  
 
 
   
