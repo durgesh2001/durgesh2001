@@ -4,7 +4,7 @@
 <p align="center"><img  alt="C++" src="https://pbs.twimg.com/profile_banners/1209749764146786305/1645560557/600x200" /></p>
 
 
-I'm Durgesh Pal,an Engineering Student & Passionate Web Developer from India. I Spend most of time coding outstanding project.
+I'm Durgesh Pal,an Engineering Student & Passionate Web Developer from India. I spend most of time coding outstanding project.
 
 
 ![Profile views](https://gpvc.arturio.dev/durgesh2001)  
