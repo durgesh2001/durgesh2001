@@ -51,18 +51,24 @@ I'm Durgesh Pal,an Engineering Student & Passionate Web Developer from India. I 
 <a href="https://www.hackerrank.com/durgeshpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/hackerrank.svg" alt="durgeshpal" height="30" width="40" /></a>
  
 
-<br /><br />
+<br />
+  <hr />
   
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=durgesh2001&show_icons=true&locale=en&theme=onedark" alt="durgesh2001" /></p>
 
+
+<details align="center">
+  <summary>:zap: More about Profile</summary>
+   <br />
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=durgesh2001&theme=tokyonight" alt="durgesh2001" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durgesh2001&theme=juicyfresh" alt="durgesh2001" /></a> </p>
 
 
+</details>
 
 
-  
+  <br />
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 
