@@ -31,12 +31,16 @@ I'm Durgesh Pal,an Engineering Student & Passionate Web Developer from India. I 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
    <img align="left"  width="26px"  src="https://user-images.githubusercontent.com/44005233/120921731-9e8ecf80-c6e2-11eb-9ea1-aa04f03ced2e.png" alt="Bootstrap" />
-  <img align="left" alt="django" width="50px" src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" alt="django"/>
+ 
+  <img  align="left" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django"/> 
+   <img align="left" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" /> 
+   <img align="left" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" />
  <img align="left" alt="Git" width="26px"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<br />
 <br />
 
 <h3 align="left">Connect with me:</h3>
@@ -47,7 +51,7 @@ I'm Durgesh Pal,an Engineering Student & Passionate Web Developer from India. I 
 <a href="https://www.hackerrank.com/durgeshpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/hackerrank.svg" alt="durgeshpal" height="30" width="40" /></a>
  
 
-<br />
+<br /><br />
   
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=durgesh2001&show_icons=true&locale=en&theme=onedark" alt="durgesh2001" /></p>
 
