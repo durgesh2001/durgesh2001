@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm <a href="http://ardourdiaries.herokuapp.com/">Durgesh Pal</a></h1>
 <h3 align="center"> Engineering Student & Passionate Web Developer</h3>
 
-<p align="center"><img  alt="C++" src="https://pbs.twimg.com/profile_banners/1209749764146786305/1645560557/600x200" /></p>
+<p align="center"><img  alt="banner" src="https://pbs.twimg.com/profile_banners/1209749764146786305/1645560557/600x200" /></p>
 
 
 I'm Durgesh Pal,an Engineering Student & Passionate Web Developer from India. I spend most of time coding outstanding project.
@@ -33,14 +33,11 @@ I'm Durgesh Pal,an Engineering Student & Passionate Web Developer from India. I 
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="C" width="26px"  src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
-
-
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
    <img align="left"  width="26px"  src="https://user-images.githubusercontent.com/44005233/120921731-9e8ecf80-c6e2-11eb-9ea1-aa04f03ced2e.png" alt="Bootstrap" />
- 
   <img  align="left" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django"/> 
    <img align="left" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" /> 
    <img align="left" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" />
@@ -51,12 +48,9 @@ I'm Durgesh Pal,an Engineering Student & Passionate Web Developer from India. I 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <br />
 <br />
-
-
-  <hr />
+<hr />
   
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=durgesh2001&show_icons=true&locale=en&theme=onedark" alt="durgesh2001" /></p>
-
 
 <details align="center">
   <summary>:zap: More about Profile</summary>
@@ -65,10 +59,7 @@ I'm Durgesh Pal,an Engineering Student & Passionate Web Developer from India. I 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durgesh2001&theme=juicyfresh" alt="durgesh2001" /></a> </p>
 
-
 </details>
-
-
   <br />
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
