@@ -20,6 +20,15 @@ I'm Durgesh Pal,an Engineering Student & Passionate Web Developer from India. I 
 - 😄 Ask me about anything, I'll be happy to help.
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/durgesh-pal-2001/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg" alt="durgesh-pal-2001" height="30" width="40" /></a>
+<a href="https://www.instagram.com/duggu.durgesh_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/instagram.svg" alt="duggu.durgesh_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCWW2m5MlMLZJnyYxQ1cP_Tg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/youtube.svg" alt="UCWW2m5MlMLZJnyYxQ1cP_Tg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/durgeshpal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/hackerrank.svg" alt="durgeshpal" height="30" width="40" /></a>
+ 
+
+<br />
 <h3 align="left">Languages and Tools:</h3>
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -43,15 +52,7 @@ I'm Durgesh Pal,an Engineering Student & Passionate Web Developer from India. I 
 <br />
 <br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/durgesh-pal-2001/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg" alt="durgesh-pal-2001" height="30" width="40" /></a>
-<a href="https://www.instagram.com/duggu.durgesh_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/instagram.svg" alt="duggu.durgesh_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCWW2m5MlMLZJnyYxQ1cP_Tg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/youtube.svg" alt="UCWW2m5MlMLZJnyYxQ1cP_Tg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/durgeshpal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/hackerrank.svg" alt="durgeshpal" height="30" width="40" /></a>
- 
 
-<br />
   <hr />
   
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=durgesh2001&show_icons=true&locale=en&theme=onedark" alt="durgesh2001" /></p>
