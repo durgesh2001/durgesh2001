@@ -49,7 +49,10 @@ I'm Durgesh Pal,an Engineering Student & Passionate Web Developer from India. I 
 <br />
 <br />
 <hr />
-  
+ 
+ ## Badges
+[![@durgesh2001's Holopin board](https://holopin.io/api/user/board?user=durgesh2001)](https://holopin.io/@durgesh2001)
+
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=durgesh2001&show_icons=true&locale=en&theme=onedark" alt="durgesh2001" /></p>
 
 <details align="center">
