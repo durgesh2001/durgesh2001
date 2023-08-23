@@ -1,15 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm <a href="http://ardourdiaries.herokuapp.com/">Durgesh Pal</a></h1>
-<h3 align="center"> Engineering Student & Passionate Web Developer</h3>
+<h3 align="center"> Graduate Engineering Student & BlockChain Developer</h3>
 
 <p align="center"><img  alt="banner" src="https://pbs.twimg.com/profile_banners/1209749764146786305/1645560557/600x200" /></p>
 
 
-I'm Durgesh Pal,an Engineering Student & Passionate Web Developer from India. I spend most of time coding outstanding project.
+I'm Durgesh Pal,a graduate Engineering Student & BlockChain Developer from India. I spend most of time coding outstanding project.
+
+![](https://komarev.com/ghpvc/?username=durgesh2001&color=yellow)  
 
 
-![Profile views](https://gpvc.arturio.dev/durgesh2001)  
-
-- 💬 Ask me about **C / C++ programming, Django**
+- 💬 Ask me about **C / C++ / Solidity programming, BlockChain Development, Django**
 
 - 📫 Mail me **michaeldurgesh@gmail.com**
 
@@ -17,7 +17,8 @@ I'm Durgesh Pal,an Engineering Student & Passionate Web Developer from India. I 
 
 - 🔭 Passionate for learning & exploring new Tech.
 
-- 😄 Ask me about anything, I'll be happy to help.
+- ⚡ Fun fact: I love to write poetries & shayries .
+  
 
 
 <h3 align="left">Connect with me:</h3>
@@ -29,6 +30,7 @@ I'm Durgesh Pal,an Engineering Student & Passionate Web Developer from India. I 
  
 
 <br />
+
 <h3 align="left">Languages and Tools:</h3>
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -38,7 +40,7 @@ I'm Durgesh Pal,an Engineering Student & Passionate Web Developer from India. I 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
    <img align="left"  width="26px"  src="https://user-images.githubusercontent.com/44005233/120921731-9e8ecf80-c6e2-11eb-9ea1-aa04f03ced2e.png" alt="Bootstrap" />
-  <img  align="left" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django"/> 
+   
    <img align="left" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" /> 
    <img align="left" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" />
  <img align="left" alt="Git" width="26px"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
