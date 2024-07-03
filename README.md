@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm <a href="http://ardourdiaries.herokuapp.com/">Durgesh Pal</a></h1>
 <h3 align="center"> Graduate Engineering Student & BlockChain Developer</h3>
 
-<p align="center"><img  alt="banner" src="https://pbs.twimg.com/profile_banners/1209749764146786305/1645560557/600x200" /></p>
+<p align="center"><img  alt="banner" src="https://pbs.twimg.com/profile_banners/1209749764146786305/1720027707/1500x500" /></p>
 
 
 I'm Durgesh Pal,a graduate Engineering Student & BlockChain Developer from India. I spend most of time coding outstanding project.
