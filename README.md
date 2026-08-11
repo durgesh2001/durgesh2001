@@ -1,15 +1,15 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm <a href="http://ardourdiaries.herokuapp.com/">Durgesh Pal</a></h1>
-<h3 align="center"> Graduate Engineering Student & BlockChain Developer</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm <a href="https://durgesh2001.github.io/profile/">Durgesh Pal</a></h1>
+<h3 align="center"> Systems Engineer@TCS</h3>
 
 <p align="center"><img  alt="banner" src="https://pbs.twimg.com/profile_banners/1209749764146786305/1720027707/1500x500" /></p>
 
 
-I'm Durgesh Pal,a graduate Engineering Student & BlockChain Developer from India. I spend most of time coding outstanding project.
+I'm Durgesh Pal, an SDE-I at Tata Consultancy Services from India. I spend most of time coding outstanding project.
 
 ![](https://komarev.com/ghpvc/?username=durgesh2001&color=yellow)  
 
 
-- 💬 Ask me about **C / C++ / Solidity programming, BlockChain Development, Django**
+- 💬 Ask me about **Java, Spring Boot, RESTful APIs, Solidity programming, BlockChain Development**
 
 - 📫 Mail me **michaeldurgesh@gmail.com**
 
